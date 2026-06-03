@@ -1,0 +1,57 @@
+{
+    "name" : "Extended Russian translation",
+    "description" : "Эта модификация переводит большество контента на русский язык, который не был переведен официально. \n\nПереведены доп.задания, описание и некоторые названия масок/перчаток/одежды, ограбления \"Hostile Takeover | Crude Awakening | Lost in Transit\", оружия и модификации к ним, снаряжение, элементы главного меню",
+    "author" : "Nersan",
+    "contact" : "https://steamcommunity.com/profiles/76561198992707296/",
+    "version" : "1.0",
+    "color" : "128 0 128",
+    "blt_version" : 2,
+
+    "updates" : [
+        {
+            "identifier" : "ExtendRusTranslation",
+            "host" : {
+                "meta" : ""
+            }
+        }
+    ],
+
+    "hooks" : [
+        {
+            "hook_id" : "lib/managers/localizationmanager",
+            "script_path" : "lua/MainMenuHudPerkDeck.lua"
+        },
+        {
+            "hook_id" : "lib/managers/localizationmanager",
+            "script_path" : "lua/SuitGlovesMask.lua"
+        },
+        {
+            "hook_id" : "lib/managers/localizationmanager",
+            "script_path" : "lua/SideJob.lua"
+        },
+        {
+            "hook_id" : "lib/managers/localizationmanager",
+            "script_path" : "lua/WeaponAndEquipment.lua"
+        },
+        {
+            "hook_id" : "lib/managers/localizationmanager",
+            "script_path" : "lua/Achievement.lua"
+        },
+        {
+            "hook_id" : "lib/managers/localizationmanager",
+            "script_path" : "lua/CrudeAwakeningRU.lua"
+        },
+        {
+            "hook_id" : "lib/managers/localizationmanager",
+            "script_path" : "lua/HostileTakeoverRU.lua"
+        },  
+        {
+            "hook_id" : "lib/managers/localizationmanager",
+            "script_path" : "lua/LostInTransitRU.lua"
+        },
+        {
+            "hook_id" : "lib/managers/localizationmanager",
+            "script_path" : "lua/UIandHUD.lua"
+        }
+    ]
+}
