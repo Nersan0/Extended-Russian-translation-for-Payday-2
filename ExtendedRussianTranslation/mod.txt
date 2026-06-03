@@ -11,7 +11,7 @@
         {
             "identifier" : "ExtendRusTranslation",
             "host" : {
-                "meta" : ""
+                "meta" : "https://raw.githubusercontent.com/Nersan0/Extended-Russian-translation-for-Payday-2/refs/heads/main/Meta/meta_ExtRus.json"
             }
         }
     ],
