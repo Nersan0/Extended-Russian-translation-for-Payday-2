@@ -1,5 +1,5 @@
 # Extended Russian translation for Payday 2
-**Модификация на [ModWorkshop](https://modworkshop.net/)**
+**Модификация на [ModWorkshop](https://modworkshop.net/mod/57264)**
 
 **Эта модификация переводит большинство контента на русский язык, который не был переведен официально.**
 
