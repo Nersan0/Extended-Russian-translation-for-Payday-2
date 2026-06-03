@@ -10,6 +10,7 @@ LocalizationManager:add_localized_strings({
     ["bm_w_speen"] = "Пистолет-пулемет Ballerina 9mm",
     ["bm_w_tkb"] = "Винтовка Rodion 3B",
     ["bm_w_x_pmm"] = "Парные пистолеты Strix",
+	["bm_w_victor"] = "Снайперская винтовка \"Полярная Звезда\"",
 
     --Модификации для оружий
     ["wpn_fps_upg_ak_g_edg"] = "Рукоятка Verge для AK",
@@ -38,7 +39,7 @@ LocalizationManager:add_localized_strings({
 	["bm_wp_dart_magazine_high_pressure"] = "Баллон высокого давления",
 	["bm_wp_dart_magazine_high_pressure_desc"] = "Баллон высокого давления, увеличивающий начальную скорость снаряда.",
 
-    ["bm_wp_deagle_conversionkit"] = "Эксклюзивный набор Red Rover",
+    ["bm_wp_deagle_conversionkit"] = "Особый набор Red Rover",
 
 	["bm_wp_g17_ck"] = "Особый набор \"Золотое правило\"",
 	["bm_wp_hcar_barrel_dmr"] = "Ствол DMR",
