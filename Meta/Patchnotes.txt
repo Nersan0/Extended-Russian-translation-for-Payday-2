@@ -1,3 +1,8 @@
+1.1.3:
+-Heist Intro translation fix (Hostile Takeover / Crude Awakening / Lost in Transit)
+-Banner translation fix
+-minor fixes
+
 1.1.2:
 -Lost In Transit fix
 -Assault Indicator fix
