@@ -67,6 +67,17 @@ LocalizationManager:add_localized_strings({
     ["menu_accessibility_sounds_tinnitus_toggle"] = "Отключить звук звона в ушах",
 	["menu_accessibility_sounds_tinnitus_toggle_help"] = "(eng: Disable Tinnitus Ringing Effect) Отключает звуковой эффект звона в ушах, который воспроизводится при воздействии светошумовых гранат или взрывов.",
 
+    ["menu_tap_to_interact_cancle"] = "Подсказка об отмене",
+    ["menu_tap_to_interact_cancle_help"] = "(eng: Cancel message during hold) Показывать подсказку об отмене при зажатии кнопки в режиме \"Удержание\" или до активации \"Нажатия по таймеру\"",
+    ["menu_tap_to_interact_multi_option"] = "Режим взаимодействия",
+    ["menu_tap_to_interact_multi_option_help"] = "(eng: Interaction Style) Удержание: зажмите для действия. Нажатие: зажмите не дольше \"таймера\" (иначе действие отменится). Нажатие по таймеру: удерживайте кнопку в течение \"таймера\". Адаптивное нажатие: обычное удержание, если действие короче \"таймера\".",
+    ["menu_tap_to_interact_off"] = "Удержание (по умолчанию)",
+    ["menu_tap_to_interact_tap"] = "Нажатие",
+    ["menu_tap_to_interact_time"] = "Таймер нажатия",
+    ["menu_tap_to_interact_time_help"] = "(eng: Toggle Timer) Время удержания кнопки для отмены \"Нажатия\", активации \"Нажатия по таймеру\" или минимальный порог для работы \"Адаптивного нажатия\".",
+    ["menu_tap_to_interact_toggle_duration_hold"] = "Нажатие по таймеру",
+    ["menu_tap_to_interact_toggle_interact_timer"] = "Адаптивное нажатие",
+
     ["menu_equipment_grenade_crate"] = "Сумка с боеприпасами",
     ["menu_equipment_spy_camera"] = "Камера-шпион",
     ["menu_in33_desc_weapon_color_multiple"] = "Это гарантирует, что ваш рабочий инструмент будет выглядеть соответствующим образом, придавая ему стиль, достойный вашего растущего списка преступных заслуг.",
