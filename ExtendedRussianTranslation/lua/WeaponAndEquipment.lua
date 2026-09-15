@@ -11,6 +11,9 @@ LocalizationManager:add_localized_strings({
     ["bm_w_tkb"] = "Винтовка Rodion 3B",
     ["bm_w_x_pmm"] = "Парные пистолеты Strix",
 	["bm_w_victor"] = "Снайперская винтовка \"Полярная Звезда\"",
+	["bm_w_bleckert"] = "Револьверный дробовик Karussell",
+	["bm_w_tti"] = "Снайперская винтовка Contractor .308",
+	["bm_w_x_vityaz"] = "Парные ПП AK Gen 21 Tactical",
 
     --Модификации для оружий
     ["wpn_fps_upg_ak_g_edg"] = "Рукоятка Verge для AK",
@@ -112,6 +115,14 @@ LocalizationManager:add_localized_strings({
 	["bm_wp_victor_sbr"] = "Штурмовой комплект \"Небожитель\"",
 	["bm_wp_victor_sbr_desc"] = "Переделывает снайперскую винтовку North Star в короткоствольный карабин.",
     ["bm_wpn_fps_upg_o_hamr"] = "Прицел CASSIAN Elite",
+
+	["bm_wp_bleckert_barrel_long"] = "Ствол Huntsman",
+	["bm_wp_bleckert_barrel_short"] = "Ствол Cavalry",
+	["bm_wp_bleckert_m_horse"] = "Барабан Horseshoe",
+	["bm_wp_bleckert_stock_precision"] = "Приклад Huntsman",
+	["bm_wp_bleckert_stock_sawnoff"] = "Укороченный приклад",
+	["bm_wp_bleckert_stock_std_pouch"] = "Патронташ на приклад",
+	["bm_wp_upg_o_dardar"] = "Винтажный прицел",
 
 --Метательное и ближнее
     ["bm_grenade_laser_watch"] = "Лазерный хронометр",
